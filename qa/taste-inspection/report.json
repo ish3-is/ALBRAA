@@ -1,0 +1,2251 @@
+{
+ "url": "http://127.0.0.1:4173/",
+ "at": "2026-10-29T10:36:41.423Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.2,
+    0.29,
+    0.36,
+    0.41,
+    0.19,
+    0.15
+   ],
+   "motion": {
+    "elements": 12,
+    "css": 0,
+    "transitions": 4,
+    "scripted": 8,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 5390,
+     "screens": 6,
+     "words": 448,
+     "img": 8,
+     "video": 0,
+     "canvas": 0,
+     "svg": 23,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "cyber-threats.webp",
+      "patents.webp",
+      "intensive-english.webp",
+      "general-english.webp",
+      "robotics.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "البراء ياسر العسيري.",
+     "words": 3,
+     "chars": 20,
+     "lines": 2,
+     "size": 77.8,
+     "vw": 5.4,
+     "font": "Camel",
+     "weight": 800,
+     "tracking": -0.035,
+     "leading": 1.22,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "right",
+     "widthRatio": 0.46,
+     "top": 160,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "البراء ياسر العسيري.",
+     "words": 3,
+     "lines": 2,
+     "size": 77.8,
+     "font": "Camel"
+    },
+    "headings": [
+     {
+      "text": "البراء ياسر العسيري.",
+      "words": 3,
+      "chars": 20,
+      "lines": 2,
+      "size": 77.8,
+      "vw": 5.4,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 1.22,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.46,
+      "top": 160,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "أتعلم اليوم، لأحمي الغد.",
+      "words": 4,
+      "chars": 24,
+      "lines": 2,
+      "size": 34,
+      "vw": 2.4,
+      "font": "Camel",
+      "weight": 200,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.46,
+      "top": 436,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "فضول يقودني. ومعرفة أبنيها.",
+      "words": 4,
+      "chars": 27,
+      "lines": 2,
+      "size": 56,
+      "vw": 3.9,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.35,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.19,
+      "top": 1018,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "كل تجربة، خطوة للأمام.",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 56,
+      "vw": 3.9,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.35,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.17,
+      "top": 1858,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "خارج قاعات الدراسة.",
+      "words": 3,
+      "chars": 19,
+      "lines": 2,
+      "size": 56,
+      "vw": 3.9,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.35,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.15,
+      "top": 3609,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ما تعلّمته. وما أستكشفه.",
+      "words": 4,
+      "chars": 24,
+      "lines": 2,
+      "size": 56,
+      "vw": 3.9,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.35,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.18,
+      "top": 4227,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "لأثرٍ رقمي يبدأ بالتعلّم.",
+      "words": 4,
+      "chars": 25,
+      "lines": 2,
+      "size": 62,
+      "vw": 4.3,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.35,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.34,
+      "top": 4980,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Camel",
+       "share": 0.95,
+       "mono": false
+      },
+      {
+       "family": "Manrope Variable",
+       "share": 0.05,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      22,
+      23,
+      24,
+      34,
+      56,
+      62,
+      78
+     ],
+     "sizeCount": 18,
+     "notLoaded": [],
+     "body": {
+      "font": "Camel",
+      "size": 23,
+      "leading": 1.9,
+      "weight": 200,
+      "tracking": 0,
+      "contrast": 17.6
+     },
+     "measureChars": 57,
+     "max": {
+      "size": 77.8,
+      "vw": 5.4,
+      "font": "Camel",
+      "text": "البراء ياسر"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 3,
+     "microLabelShare": 0.027,
+     "microSamples": [
+      "A CONTINUOUS PATH.",
+      "BA / EST. IN CURIOSITY",
+      "LEARN. UNDERSTAND. CONTRIBUTE."
+     ],
+     "upperShare": 0.06,
+     "centerShare": 0.06,
+     "smallText": 5
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#07111f",
+     "bodyBgHsl": {
+      "h": 215,
+      "s": 0.63,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#9eadbd",
+       "share": 0.58
+      },
+      {
+       "color": "#f5f7fa",
+       "share": 0.35
+      },
+      {
+       "color": "#46d9e8",
+       "share": 0.05
+      },
+      {
+       "color": "#07111f",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#46d9e8",
+      "hsl": {
+       "h": 186,
+       "s": 0.78,
+       "l": 0.59
+      },
+      "fg": "#07111f"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 6,
+     "inHero": 2,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "انتقل إلى المحتوى",
+      "اكتشف رحلتي"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 2,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 2,
+     "boxRadius": 50,
+     "squareMedia": 5,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.1
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 104,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "manrope variable",
+     "camel"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 5390,
+    "margins": {
+     "left": 60,
+     "right": 60
+    },
+    "sections": [
+     {
+      "sel": "section#top.hero.page-width",
+      "tag": "section",
+      "top": 104,
+      "height": 796,
+      "words": 54,
+      "media": 1,
+      "middle": 158,
+      "heading": {
+       "text": "البراء ياسر",
+       "size": 78,
+       "tag": "h1"
+      },
+      "left": 60,
+      "right": 60,
+      "textLeft": 60,
+      "textRight": 60,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about.section",
+      "tag": "section",
+      "top": 900,
+      "height": 840,
+      "words": 83,
+      "media": 0,
+      "middle": 235,
+      "heading": {
+       "text": "فضول يقودني.",
+       "size": 56,
+       "tag": "h2"
+      },
+      "left": 60,
+      "right": 60,
+      "textLeft": 92,
+      "textRight": 60,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.section-heading",
+      "tag": "div",
+      "top": 1858,
+      "height": 151,
+      "words": 19,
+      "media": 0,
+      "middle": 640,
+      "heading": {
+       "text": "كل تجربة،",
+       "size": 56,
+       "tag": "h2"
+      },
+      "left": 80,
+      "right": 60,
+      "textLeft": 80,
+      "textRight": 60,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.certificate-grid",
+      "tag": "div",
+      "top": 2149,
+      "height": 1152,
+      "words": 152,
+      "media": 5,
+      "middle": 0,
+      "heading": {
+       "text": "التهديدات والثغرات والهجمات في الأمن السيبراني",
+       "size": 23,
+       "tag": "h3"
+      },
+      "left": 60,
+      "right": 60,
+      "textLeft": 60,
+      "textRight": 60,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#community.section.page-width",
+      "tag": "section",
+      "top": 3491,
+      "height": 617,
+      "words": 40,
+      "media": 0,
+      "middle": 384,
+      "heading": {
+       "text": "خارج قاعات",
+       "size": 56,
+       "tag": "h2"
+      },
+      "left": 101,
+      "right": 60,
+      "textLeft": 101,
+      "textRight": 60,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#interests.section.page-width",
+      "tag": "section",
+      "top": 4109,
+      "height": 754,
+      "words": 49,
+      "media": 0,
+      "middle": 405,
+      "heading": {
+       "text": "ما تعلّمته.",
+       "size": 56,
+       "tag": "h2"
+      },
+      "left": 458,
+      "right": 60,
+      "textLeft": 458,
+      "textRight": 60,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.contact.section",
+      "tag": "section",
+      "top": 4862,
+      "height": 442,
+      "words": 19,
+      "media": 0,
+      "middle": 60,
+      "heading": {
+       "text": "لأثرٍ رقمي",
+       "size": 62,
+       "tag": "h2"
+      },
+      "left": 708,
+      "right": 60,
+      "textLeft": 708,
+      "textRight": 240,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 1588,
+      "height": 272
+     },
+     {
+      "top": 3956,
+      "height": 272
+     }
+    ],
+    "h1s": [
+     {
+      "text": "البراء ياسر العسيري.",
+      "size": 78,
+      "top": 160,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 1110,
+      "n": 4
+     },
+     {
+      "x": 370,
+      "n": 2
+     },
+     {
+      "x": 1002,
+      "n": 2
+     },
+     {
+      "x": 1153,
+      "n": 2
+     },
+     {
+      "x": 1204,
+      "n": 2
+     },
+     {
+      "x": 65,
+      "n": 1
+     },
+     {
+      "x": 80,
+      "n": 1
+     },
+     {
+      "x": 101,
+      "n": 1
+     },
+     {
+      "x": 220,
+      "n": 1
+     },
+     {
+      "x": 421,
+      "n": 1
+     },
+     {
+      "x": 506,
+      "n": 1
+     },
+     {
+      "x": 708,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 30,
+    "bodySize": 18,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0.14,
+    "voidBox": {
+     "x": 660,
+     "y": 120,
+     "w": 420,
+     "h": 420
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.2,
+    0.31,
+    0.61,
+    0.21,
+    0.31,
+    0.19
+   ],
+   "motion": {
+    "elements": 11,
+    "css": 0,
+    "transitions": 3,
+    "scripted": 8,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 5565,
+     "screens": 5.4,
+     "words": 440,
+     "img": 8,
+     "video": 0,
+     "canvas": 0,
+     "svg": 23,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "cyber-threats.webp",
+      "patents.webp",
+      "intensive-english.webp",
+      "general-english.webp",
+      "robotics.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "البراء ياسر العسيري.",
+     "words": 3,
+     "chars": 20,
+     "lines": 2,
+     "size": 46,
+     "vw": 6,
+     "font": "Camel",
+     "weight": 800,
+     "tracking": -0.035,
+     "leading": 1.22,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "right",
+     "widthRatio": 0.47,
+     "top": 131,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "البراء ياسر العسيري.",
+     "words": 3,
+     "lines": 2,
+     "size": 46,
+     "font": "Camel"
+    },
+    "headings": [
+     {
+      "text": "البراء ياسر العسيري.",
+      "words": 3,
+      "chars": 20,
+      "lines": 2,
+      "size": 46,
+      "vw": 6,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 1.22,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.47,
+      "top": 131,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "أتعلم اليوم، لأحمي الغد.",
+      "words": 4,
+      "chars": 24,
+      "lines": 2,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Camel",
+      "weight": 200,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.47,
+      "top": 325,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "فضول يقودني. ومعرفة أبنيها.",
+      "words": 4,
+      "chars": 27,
+      "lines": 2,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.35,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.25,
+      "top": 1089,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "كل تجربة، خطوة للأمام.",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.35,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.23,
+      "top": 1799,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "خارج قاعات الدراسة.",
+      "words": 3,
+      "chars": 19,
+      "lines": 2,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.35,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.21,
+      "top": 3930,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ما تعلّمته. وما أستكشفه.",
+      "words": 4,
+      "chars": 24,
+      "lines": 2,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.35,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.25,
+      "top": 4590,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "لأثرٍ رقمي يبدأ بالتعلّم.",
+      "words": 4,
+      "chars": 25,
+      "lines": 2,
+      "size": 38,
+      "vw": 4.9,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.35,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.64,
+      "top": 5235,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Camel",
+       "share": 0.96,
+       "mono": false
+      },
+      {
+       "family": "Manrope Variable",
+       "share": 0.04,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      20,
+      21,
+      22,
+      24,
+      26,
+      38,
+      40,
+      46
+     ],
+     "sizeCount": 17,
+     "notLoaded": [],
+     "body": {
+      "font": "Camel",
+      "size": 16,
+      "leading": 1.9,
+      "weight": 200,
+      "tracking": 0,
+      "contrast": 8.3
+     },
+     "measureChars": 34,
+     "max": {
+      "size": 46,
+      "vw": 6,
+      "font": "Camel",
+      "text": "البراء ياسر"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 2,
+     "microLabelShare": 0.016,
+     "microSamples": [
+      "A CONTINUOUS PATH.",
+      "BA / EST. IN CURIOSITY"
+     ],
+     "upperShare": 0.05,
+     "centerShare": 0.06,
+     "smallText": 4
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#07111f",
+     "bodyBgHsl": {
+      "h": 215,
+      "s": 0.63,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#9eadbd",
+       "share": 0.57
+      },
+      {
+       "color": "#f5f7fa",
+       "share": 0.36
+      },
+      {
+       "color": "#46d9e8",
+       "share": 0.05
+      },
+      {
+       "color": "#07111f",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#46d9e8",
+      "hsl": {
+       "h": 186,
+       "s": 0.78,
+       "l": 0.59
+      },
+      "fg": "#07111f"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 6,
+     "inHero": 2,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "انتقل إلى المحتوى",
+      "اكتشف رحلتي"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 2,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 2,
+     "boxRadius": 50,
+     "squareMedia": 5,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 84,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "manrope variable",
+     "camel"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 5565,
+    "margins": {
+     "left": 24,
+     "right": 24
+    },
+    "sections": [
+     {
+      "sel": "section#top.hero.page-width",
+      "tag": "section",
+      "top": 84,
+      "height": 920,
+      "words": 49,
+      "media": 1,
+      "middle": 42,
+      "heading": {
+       "text": "البراء ياسر",
+       "size": 46,
+       "tag": "h1"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about.section",
+      "tag": "section",
+      "top": 1004,
+      "height": 710,
+      "words": 83,
+      "media": 0,
+      "middle": 60,
+      "heading": {
+       "text": "فضول يقودني.",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 48,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#learning.section.learning",
+      "tag": "section",
+      "top": 1714,
+      "height": 2131,
+      "words": 190,
+      "media": 5,
+      "middle": 0,
+      "heading": {
+       "text": "كل تجربة،",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#community.section.page-width",
+      "tag": "section",
+      "top": 3845,
+      "height": 660,
+      "words": 40,
+      "media": 0,
+      "middle": 105,
+      "heading": {
+       "text": "خارج قاعات",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 60,
+      "right": 24,
+      "textLeft": 60,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#interests.section.page-width",
+      "tag": "section",
+      "top": 4505,
+      "height": 645,
+      "words": 49,
+      "media": 0,
+      "middle": 80,
+      "heading": {
+       "text": "ما تعلّمته.",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 147,
+      "right": 24,
+      "textLeft": 147,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.contact.section",
+      "tag": "section",
+      "top": 5150,
+      "height": 329,
+      "words": 19,
+      "media": 0,
+      "middle": 30,
+      "heading": {
+       "text": "لأثرٍ رقمي",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 132,
+      "right": 24,
+      "textLeft": 132,
+      "textRight": 144,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 560,
+      "height": 392
+     }
+    ],
+    "h1s": [
+     {
+      "text": "البراء ياسر العسيري.",
+      "size": 46,
+      "top": 131,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 551,
+      "n": 3
+     },
+     {
+      "x": 585,
+      "n": 3
+     },
+     {
+      "x": 603,
+      "n": 3
+     },
+     {
+      "x": 55,
+      "n": 2
+     },
+     {
+      "x": 195,
+      "n": 2
+     },
+     {
+      "x": 402,
+      "n": 2
+     },
+     {
+      "x": 413,
+      "n": 2
+     },
+     {
+      "x": 439,
+      "n": 2
+     },
+     {
+      "x": 132,
+      "n": 1
+     },
+     {
+      "x": 144,
+      "n": 1
+     },
+     {
+      "x": 230,
+      "n": 1
+     },
+     {
+      "x": 367,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 30,
+    "bodySize": 20,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 9,
+   "filled": [
+    0.29,
+    0.59,
+    0.66,
+    0.46,
+    0.73,
+    0.54,
+    0.42,
+    0.25,
+    0.07
+   ],
+   "motion": {
+    "elements": 8,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 8,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 7251,
+     "screens": 8.6,
+     "words": 436,
+     "img": 8,
+     "video": 0,
+     "canvas": 0,
+     "svg": 23,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "cyber-threats.webp",
+      "patents.webp",
+      "intensive-english.webp",
+      "general-english.webp",
+      "robotics.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "البراء ياسر العسيري.",
+     "words": 3,
+     "chars": 20,
+     "lines": 2,
+     "size": 48.8,
+     "vw": 12.5,
+     "font": "Camel",
+     "weight": 800,
+     "tracking": -0.035,
+     "leading": 1.23,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 118,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "البراء ياسر العسيري.",
+     "words": 3,
+     "lines": 2,
+     "size": 48.8,
+     "font": "Camel"
+    },
+    "headings": [
+     {
+      "text": "البراء ياسر العسيري.",
+      "words": 3,
+      "chars": 20,
+      "lines": 2,
+      "size": 48.8,
+      "vw": 12.5,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 1.23,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 118,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "أتعلم اليوم، لأحمي الغد.",
+      "words": 4,
+      "chars": 24,
+      "lines": 2,
+      "size": 27,
+      "vw": 6.9,
+      "font": "Camel",
+      "weight": 200,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 311,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "فضول يقودني. ومعرفة أبنيها.",
+      "words": 4,
+      "chars": 27,
+      "lines": 2,
+      "size": 34,
+      "vw": 8.7,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.42,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1008,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "كل تجربة، خطوة للأمام.",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 34,
+      "vw": 8.7,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.42,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1991,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "التهديدات والثغرات والهجمات في الأمن السيبراني",
+      "words": 6,
+      "chars": 46,
+      "lines": 2,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2586,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "إعادة تشكيل مستقبل براءات الاختراع في ضوء الذكاء الاصطناعي",
+      "words": 9,
+      "chars": 58,
+      "lines": 2,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3135,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "اللغة الإنجليزية المكثّفة",
+      "words": 3,
+      "chars": 25,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3769,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "اللغة الإنجليزية العامة",
+      "words": 3,
+      "chars": 23,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4369,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "دورة الروبوت",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4884,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "خارج قاعات الدراسة.",
+      "words": 3,
+      "chars": 19,
+      "lines": 2,
+      "size": 34,
+      "vw": 8.7,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.42,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5290,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ما تعلّمته. وما أستكشفه.",
+      "words": 4,
+      "chars": 24,
+      "lines": 2,
+      "size": 34,
+      "vw": 8.7,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.42,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5910,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "لأثرٍ رقمي يبدأ بالتعلّم.",
+      "words": 4,
+      "chars": 25,
+      "lines": 2,
+      "size": 34,
+      "vw": 8.7,
+      "font": "Camel",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.42,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 6834,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 12,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Camel",
+       "share": 0.96,
+       "mono": false
+      },
+      {
+       "family": "Manrope Variable",
+       "share": 0.04,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      21,
+      22,
+      27,
+      34,
+      49
+     ],
+     "sizeCount": 16,
+     "notLoaded": [],
+     "body": {
+      "font": "Camel",
+      "size": 16,
+      "leading": 1.9,
+      "weight": 200,
+      "tracking": 0,
+      "contrast": 8.3
+     },
+     "measureChars": 33,
+     "max": {
+      "size": 48.8,
+      "vw": 12.5,
+      "font": "Camel",
+      "text": "البراء ياسر"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 2,
+     "microLabelShare": 0.016,
+     "microSamples": [
+      "A CONTINUOUS PATH.",
+      "BA / EST. IN CURIOSITY"
+     ],
+     "upperShare": 0.05,
+     "centerShare": 0.06,
+     "smallText": 9
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#07111f",
+     "bodyBgHsl": {
+      "h": 215,
+      "s": 0.63,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#0b1729",
+       "top": 1492,
+       "hsl": {
+        "h": 216,
+        "s": 0.58,
+        "l": 0.1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#9eadbd",
+       "share": 0.57
+      },
+      {
+       "color": "#f5f7fa",
+       "share": 0.36
+      },
+      {
+       "color": "#46d9e8",
+       "share": 0.05
+      },
+      {
+       "color": "#07111f",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#0b1729",
+      "hsl": {
+       "h": 216,
+       "s": 0.58,
+       "l": 0.1
+      },
+      "fg": "#9eadbd"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 2,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "انتقل إلى المحتوى",
+      "اكتشف رحلتي"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 2,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 2,
+     "boxRadius": 50,
+     "squareMedia": 5,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 80,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "manrope variable",
+     "camel"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 7251,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "section#top.hero.page-width",
+      "tag": "section",
+      "top": 80,
+      "height": 864,
+      "words": 49,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "البراء ياسر",
+       "size": 49,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about.section",
+      "tag": "section",
+      "top": 944,
+      "height": 983,
+      "words": 83,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "فضول يقودني.",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 26,
+      "right": 20,
+      "textLeft": 26,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.section-heading",
+      "tag": "div",
+      "top": 1991,
+      "height": 180,
+      "words": 19,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "كل تجربة،",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 43,
+      "right": 20,
+      "textLeft": 43,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.certificate-card",
+      "tag": "article",
+      "top": 2279,
+      "height": 509,
+      "words": 24,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "التهديدات والثغرات والهجمات في الأمن السيبراني",
+       "size": 22,
+       "tag": "h3"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.certificate-card",
+      "tag": "article",
+      "top": 2828,
+      "height": 509,
+      "words": 33,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "إعادة تشكيل مستقبل براءات الاختراع في ضوء الذكاء ا",
+       "size": 22,
+       "tag": "h3"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.certificate-card.portrait",
+      "tag": "article",
+      "top": 3377,
+      "height": 560,
+      "words": 30,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "اللغة الإنجليزية المكثّفة",
+       "size": 22,
+       "tag": "h3"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.certificate-card.portrait",
+      "tag": "article",
+      "top": 3977,
+      "height": 560,
+      "words": 30,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "اللغة الإنجليزية العامة",
+       "size": 22,
+       "tag": "h3"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.certificate-card",
+      "tag": "article",
+      "top": 4577,
+      "height": 502,
+      "words": 35,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "دورة الروبوت",
+       "size": 22,
+       "tag": "h3"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#community.section.page-width",
+      "tag": "section",
+      "top": 5226,
+      "height": 620,
+      "words": 40,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "خارج قاعات",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 20,
+      "textLeft": 24,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#interests.section.page-width",
+      "tag": "section",
+      "top": 5846,
+      "height": 826,
+      "words": 49,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "ما تعلّمته.",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 80,
+      "right": 20,
+      "textLeft": 80,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.contact.section",
+      "tag": "section",
+      "top": 6672,
+      "height": 477,
+      "words": 19,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "لأثرٍ رقمي",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 30,
+      "right": 20,
+      "textLeft": 30,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "البراء ياسر العسيري.",
+      "size": 49,
+      "top": 118,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 198,
+      "n": 5
+     },
+     {
+      "x": 24,
+      "n": 4
+     },
+     {
+      "x": 209,
+      "n": 4
+     },
+     {
+      "x": 228,
+      "n": 4
+     },
+     {
+      "x": 39,
+      "n": 3
+     },
+     {
+      "x": 255,
+      "n": 3
+     },
+     {
+      "x": 97,
+      "n": 2
+     },
+     {
+      "x": 266,
+      "n": 2
+     },
+     {
+      "x": 58,
+      "n": 1
+     },
+     {
+      "x": 119,
+      "n": 1
+     },
+     {
+      "x": 159,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 30,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "micro-label",
+   "width": 1440,
+   "message": "3 tiny uppercase letter-spaced labels (e.g. \"A CONTINUOUS PATH.\", \"BA / EST. IN CURIOSITY\", \"LEARN. UNDERSTAND. CONTRIBUTE.\").",
+   "fix": "Use sentence-case text at a readable size, or delete the label."
+  },
+  {
+   "level": "WARN",
+   "id": "outlined-box",
+   "width": 1440,
+   "message": "2 box(es) drawn with a 1px outline.",
+   "fix": "Prefer a filled surface or no box.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "18 different font sizes (10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 34, 56, 62, 78).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 1440,
+   "message": "5 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "name-only-title",
+   "width": 1440,
+   "message": "The h1 is a bare name (\"البراء ياسر العسيري.\") and nothing else on the first screen says what this is.",
+   "fix": "Keep the name if it leads, and give the line under it (18px or more) the plain words: what it is, for whom, where or when. In the study of 97 Sites of the Day, first screens that named nothing lost usability and content points.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "ragged-edges",
+   "width": 1440,
+   "message": "Left-aligned text starts at 12 different lines (1110px, 370px, 1002px, 1153px, 1204px, 65px, 80px); the three most used hold only 27% of it.",
+   "fix": "Pick two or three anchor lines from the grid and start every heading and paragraph on one of them.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 12 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
+  },
+  {
+   "level": "FAIL",
+   "id": "empty-screens",
+   "width": 1440,
+   "message": "2 of 6 desktop screens are almost empty ground (under 20% of the screen holds text, a picture or a colour field): screens 5, 6.",
+   "fix": "An empty screen is a rest only once per page. Elsewhere it means the section is underbuilt: set its content larger, give it the full information, put it on a colour field, or cut it."
+  },
+  {
+   "level": "WARN",
+   "id": "micro-label",
+   "width": 768,
+   "message": "2 tiny uppercase letter-spaced label(s): \"A CONTINUOUS PATH.\", \"BA / EST. IN CURIOSITY\"",
+   "fix": "Prefer sentence case at body size.",
+   "alsoAt": [
+    390
+   ]
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\hp\\Downloads\\AL-BRAA\\qa\\taste-inspection\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\hp\\Downloads\\AL-BRAA\\qa\\taste-inspection\\desktop-page-01.jpg",
+    "C:\\Users\\hp\\Downloads\\AL-BRAA\\qa\\taste-inspection\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\hp\\Downloads\\AL-BRAA\\qa\\taste-inspection\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\hp\\Downloads\\AL-BRAA\\qa\\taste-inspection\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\hp\\Downloads\\AL-BRAA\\qa\\taste-inspection\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\hp\\Downloads\\AL-BRAA\\qa\\taste-inspection\\mobile-page-01.jpg",
+    "C:\\Users\\hp\\Downloads\\AL-BRAA\\qa\\taste-inspection\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

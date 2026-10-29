@@ -1,0 +1,478 @@
+{
+  "$metadata": {
+    "generator": "designlang",
+    "version": "7.0.0",
+    "spec": "https://design-tokens.github.io/community-group/format/",
+    "source": "http://127.0.0.1:4173/",
+    "generatedAt": "2026-10-29T10:49:08.342Z"
+  },
+  "primitive": {
+    "color": {
+      "brand": {
+        "primary": {
+          "$value": "#46d9e8",
+          "$type": "color"
+        },
+        "secondary": {
+          "$value": "#07111f",
+          "$type": "color"
+        }
+      },
+      "neutral": {
+        "n100": {
+          "$value": "#f5f7fa",
+          "$type": "color"
+        },
+        "n200": {
+          "$value": "#9eadbd",
+          "$type": "color"
+        }
+      },
+      "background": {
+        "bg0": {
+          "$value": "#07111f",
+          "$type": "color"
+        },
+        "bg1": {
+          "$value": "#0b1729",
+          "$type": "color"
+        }
+      },
+      "text": {
+        "text0": {
+          "$value": "#f5f7fa",
+          "$type": "color"
+        },
+        "text1": {
+          "$value": "#07111f",
+          "$type": "color"
+        },
+        "text2": {
+          "$value": "#46d9e8",
+          "$type": "color"
+        },
+        "text3": {
+          "$value": "#9eadbd",
+          "$type": "color"
+        }
+      },
+      "ramp": {
+        "primary": {
+          "50": {
+            "$value": "#bbffff",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#a8faff",
+            "$type": "color"
+          },
+          "200": {
+            "$value": "#8cebf6",
+            "$type": "color"
+          },
+          "300": {
+            "$value": "#46d9e8",
+            "$type": "color"
+          },
+          "400": {
+            "$value": "#15b4c2",
+            "$type": "color"
+          },
+          "500": {
+            "$value": "#0096a5",
+            "$type": "color"
+          },
+          "600": {
+            "$value": "#007e8c",
+            "$type": "color"
+          },
+          "700": {
+            "$value": "#006673",
+            "$type": "color"
+          },
+          "800": {
+            "$value": "#005460",
+            "$type": "color"
+          },
+          "900": {
+            "$value": "#00454e",
+            "$type": "color"
+          },
+          "950": {
+            "$value": "#00272d",
+            "$type": "color"
+          }
+        },
+        "secondary": {
+          "50": {
+            "$value": "#edf6ff",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#e1ebf9",
+            "$type": "color"
+          },
+          "200": {
+            "$value": "#cfdaea",
+            "$type": "color"
+          },
+          "300": {
+            "$value": "#b5c1d3",
+            "$type": "color"
+          },
+          "400": {
+            "$value": "#93a1b4",
+            "$type": "color"
+          },
+          "500": {
+            "$value": "#758396",
+            "$type": "color"
+          },
+          "600": {
+            "$value": "#606d7f",
+            "$type": "color"
+          },
+          "700": {
+            "$value": "#4c5867",
+            "$type": "color"
+          },
+          "800": {
+            "$value": "#3d4755",
+            "$type": "color"
+          },
+          "900": {
+            "$value": "#313945",
+            "$type": "color"
+          },
+          "950": {
+            "$value": "#07111f",
+            "$type": "color"
+          }
+        },
+        "accent": {
+          "50": {
+            "$value": "#eaf7ff",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#ddecfc",
+            "$type": "color"
+          },
+          "200": {
+            "$value": "#cbdbed",
+            "$type": "color"
+          },
+          "300": {
+            "$value": "#b1c2d6",
+            "$type": "color"
+          },
+          "400": {
+            "$value": "#8fa2b8",
+            "$type": "color"
+          },
+          "500": {
+            "$value": "#71849a",
+            "$type": "color"
+          },
+          "600": {
+            "$value": "#5c6e82",
+            "$type": "color"
+          },
+          "700": {
+            "$value": "#48586a",
+            "$type": "color"
+          },
+          "800": {
+            "$value": "#3a4858",
+            "$type": "color"
+          },
+          "900": {
+            "$value": "#28394c",
+            "$type": "color"
+          },
+          "950": {
+            "$value": "#172029",
+            "$type": "color"
+          }
+        },
+        "neutral": {
+          "50": {
+            "$value": "#edf7ff",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#e1ebf6",
+            "$type": "color"
+          },
+          "200": {
+            "$value": "#cfdbe7",
+            "$type": "color"
+          },
+          "300": {
+            "$value": "#b5c2d0",
+            "$type": "color"
+          },
+          "400": {
+            "$value": "#9eadbd",
+            "$type": "color"
+          },
+          "500": {
+            "$value": "#758493",
+            "$type": "color"
+          },
+          "600": {
+            "$value": "#606e7c",
+            "$type": "color"
+          },
+          "700": {
+            "$value": "#4c5864",
+            "$type": "color"
+          },
+          "800": {
+            "$value": "#3d4853",
+            "$type": "color"
+          },
+          "900": {
+            "$value": "#313a43",
+            "$type": "color"
+          },
+          "950": {
+            "$value": "#191f26",
+            "$type": "color"
+          }
+        }
+      }
+    },
+    "spacing": {
+      "s0": {
+        "$value": "4px",
+        "$type": "dimension"
+      },
+      "s1": {
+        "$value": "8px",
+        "$type": "dimension"
+      },
+      "s2": {
+        "$value": "45px",
+        "$type": "dimension"
+      },
+      "s3": {
+        "$value": "48px",
+        "$type": "dimension"
+      },
+      "s4": {
+        "$value": "54px",
+        "$type": "dimension"
+      },
+      "s5": {
+        "$value": "60px",
+        "$type": "dimension"
+      },
+      "s6": {
+        "$value": "65px",
+        "$type": "dimension"
+      },
+      "s7": {
+        "$value": "75px",
+        "$type": "dimension"
+      },
+      "s8": {
+        "$value": "90px",
+        "$type": "dimension"
+      },
+      "s9": {
+        "$value": "100px",
+        "$type": "dimension"
+      },
+      "s10": {
+        "$value": "110px",
+        "$type": "dimension"
+      },
+      "s11": {
+        "$value": "161px",
+        "$type": "dimension"
+      },
+      "s12": {
+        "$value": "284px",
+        "$type": "dimension"
+      },
+      "s13": {
+        "$value": "419px",
+        "$type": "dimension"
+      }
+    },
+    "radius": {
+      "r0": {
+        "$value": "50px",
+        "$type": "dimension"
+      }
+    },
+    "shadow": {},
+    "fontFamily": {
+      "f0": {
+        "$value": "Camel",
+        "$type": "fontFamily"
+      },
+      "f1": {
+        "$value": "Manrope Variable",
+        "$type": "fontFamily"
+      }
+    },
+    "fontSize": {
+      "h1": {
+        "$value": "69.12px",
+        "$type": "dimension"
+      },
+      "h2": {
+        "$value": "57.6px",
+        "$type": "dimension"
+      },
+      "title-1": {
+        "$value": "51.2px",
+        "$type": "dimension"
+      },
+      "title-2": {
+        "$value": "30.72px",
+        "$type": "dimension"
+      },
+      "h3": {
+        "$value": "26px",
+        "$type": "dimension"
+      },
+      "h4": {
+        "$value": "24px",
+        "$type": "dimension"
+      },
+      "title-3": {
+        "$value": "23px",
+        "$type": "dimension"
+      },
+      "title-4": {
+        "$value": "22px",
+        "$type": "dimension"
+      },
+      "title-5": {
+        "$value": "20px",
+        "$type": "dimension"
+      },
+      "title-6": {
+        "$value": "19px",
+        "$type": "dimension"
+      },
+      "body": {
+        "$value": "18px",
+        "$type": "dimension"
+      },
+      "body-sm": {
+        "$value": "17px",
+        "$type": "dimension"
+      },
+      "micro": {
+        "$value": "16px",
+        "$type": "dimension"
+      },
+      "sm-3": {
+        "$value": "15px",
+        "$type": "dimension"
+      },
+      "sm-4": {
+        "$value": "14px",
+        "$type": "dimension"
+      },
+      "sm-5": {
+        "$value": "13px",
+        "$type": "dimension"
+      }
+    }
+  },
+  "semantic": {
+    "color": {
+      "action": {
+        "primary": {
+          "$value": "{primitive.color.brand.primary}",
+          "$type": "color"
+        },
+        "secondary": {
+          "$value": "{primitive.color.brand.secondary}",
+          "$type": "color"
+        },
+        "onPrimary": {
+          "$value": "#07111f",
+          "$type": "color"
+        },
+        "onSecondary": {
+          "$value": "#f5f7fa",
+          "$type": "color"
+        },
+        "accent": {
+          "$value": "#28394c",
+          "$type": "color"
+        },
+        "onAccent": {
+          "$value": "#f5f7fa",
+          "$type": "color"
+        }
+      },
+      "surface": {
+        "default": {
+          "$value": "{primitive.color.background.bg0}",
+          "$type": "color"
+        },
+        "page": {
+          "$value": "#07111f",
+          "$type": "color"
+        },
+        "onPage": {
+          "$value": "#f5f7fa",
+          "$type": "color"
+        },
+        "raised": {
+          "$value": "#0b1729",
+          "$type": "color"
+        },
+        "onRaised": {
+          "$value": "#f5f7fa",
+          "$type": "color"
+        }
+      },
+      "text": {
+        "body": {
+          "$value": "{primitive.color.text.text0}",
+          "$type": "color"
+        }
+      }
+    },
+    "typography": {
+      "body": {
+        "$value": {
+          "fontFamily": "Camel",
+          "fontSize": "18px",
+          "fontWeight": "800",
+          "lineHeight": "27px"
+        },
+        "$type": "typography"
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "Camel",
+          "fontSize": "69.12px",
+          "fontWeight": "800",
+          "lineHeight": "84.3264px"
+        },
+        "$type": "typography"
+      }
+    },
+    "radius": {
+      "control": {
+        "$value": "{primitive.radius.r0}",
+        "$type": "dimension"
+      }
+    },
+    "shadow": {
+      "elevated": {
+        "$value": "{primitive.shadow.sh0}",
+        "$type": "shadow"
+      }
+    }
+  }
+}

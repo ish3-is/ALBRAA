@@ -1,0 +1,13 @@
+Clone the design language of this landing page and build a fresh equivalent.
+Visual feel: flat. Tone: neutral · Headings: all-lowercase · CTA verbs: [object Object]
+Primary palette: #f5f7fa, #9eadbd, #07111f, #46d9e8, #28394c.
+Typography: [object Object], [object Object].
+Corner radius vocabulary: 50.
+Shadow vocabulary: (none).
+Page structure:
+- hero — heading: "البراء ياسر
+العسيري."
+- sidebar — heading: "مساري الأكاديمي"
+- hero — heading: "لأثرٍ رقمي
+يبدأ بالتعلّم."
+- footer

@@ -1,0 +1,325 @@
+{
+  "pageIntent": {
+    "type": "landing",
+    "confidence": 0.75,
+    "path": "/",
+    "title": "البراء ياسر العسيري | طالب أمن سيبراني",
+    "description": "البراء ياسر العسيري، طالب أمن سيبراني في السنة الثانية بجامعة الملك خالد. اكتشف مساري الأكاديمي وشهاداتي ومشاركتي المجتمعية.",
+    "signals": [
+      {
+        "kind": "url",
+        "type": "landing",
+        "weight": 0.45,
+        "detail": "root-path"
+      },
+      {
+        "kind": "shape",
+        "type": "landing",
+        "weight": 0.3,
+        "detail": "features+hero+footer"
+      }
+    ],
+    "alternates": [],
+    "needsSmart": false
+  },
+  "sectionRoles": {
+    "sections": [
+      {
+        "index": 0,
+        "tag": "header",
+        "role": "nav",
+        "subrole": null,
+        "confidence": 0.4,
+        "heading": null,
+        "bounds": {
+          "x": 56,
+          "y": 0,
+          "w": 1168,
+          "h": 104
+        },
+        "buttonCount": 2,
+        "cardCount": 0,
+        "slots": {
+          "ctaCount": 2,
+          "lede": "البراء العسيري\nعنّي\nالتعلّم\nالمجتمع\nتواصل\nEN"
+        },
+        "needsSmart": true
+      },
+      {
+        "index": 1,
+        "tag": "nav",
+        "role": "nav",
+        "subrole": null,
+        "confidence": 0.9,
+        "heading": null,
+        "bounds": {
+          "x": 482.09375,
+          "y": 40,
+          "w": 234.625,
+          "h": 24
+        },
+        "buttonCount": 0,
+        "cardCount": 0,
+        "slots": {
+          "lede": "عنّي\nالتعلّم\nالمجتمع\nتواصل"
+        },
+        "needsSmart": false
+      },
+      {
+        "index": 2,
+        "tag": "main",
+        "role": "content",
+        "subrole": null,
+        "confidence": 0.3,
+        "heading": "البراء ياسر\nالعسيري.",
+        "bounds": {
+          "x": 0,
+          "y": 104,
+          "w": 1280,
+          "h": 5939.03125
+        },
+        "buttonCount": 16,
+        "cardCount": 17,
+        "slots": {
+          "heading": "البراء ياسر\nالعسيري.",
+          "subheadings": [
+            "فضول يقودني.\nومعرفة أبنيها.",
+            "مساري الأكاديمي",
+            "كل تجربة،\nخطوة للأمام.",
+            "التهديدات والثغرات والهجمات في الأمن السيبراني"
+          ],
+          "ctaCount": 16
+        },
+        "needsSmart": true
+      },
+      {
+        "index": 3,
+        "tag": "section",
+        "role": "hero",
+        "subrole": null,
+        "confidence": 0.85,
+        "heading": "البراء ياسر\nالعسيري.",
+        "bounds": {
+          "x": 56,
+          "y": 104,
+          "w": 1168,
+          "h": 768
+        },
+        "buttonCount": 1,
+        "cardCount": 0,
+        "slots": {
+          "heading": "البراء ياسر\nالعسيري.",
+          "ctaCount": 1
+        },
+        "needsSmart": false
+      },
+      {
+        "index": 4,
+        "tag": "section",
+        "role": "content",
+        "subrole": null,
+        "confidence": 0.3,
+        "heading": "فضول يقودني.\nومعرفة أبنيها.",
+        "bounds": {
+          "x": 56,
+          "y": 872,
+          "w": 1168,
+          "h": 770.90625
+        },
+        "buttonCount": 0,
+        "cardCount": 0,
+        "slots": {
+          "heading": "فضول يقودني.\nومعرفة أبنيها.",
+          "subheadings": [
+            "مساري الأكاديمي"
+          ]
+        },
+        "needsSmart": true
+      },
+      {
+        "index": 5,
+        "tag": "aside",
+        "role": "sidebar",
+        "subrole": null,
+        "confidence": 0.4,
+        "heading": "مساري الأكاديمي",
+        "bounds": {
+          "x": 56,
+          "y": 1154.21875,
+          "w": 470.234375,
+          "h": 398.6875
+        },
+        "buttonCount": 0,
+        "cardCount": 0,
+        "slots": {
+          "heading": "مساري الأكاديمي",
+          "lede": "مساري الأكاديمي\nجامعة الملك خالد"
+        },
+        "needsSmart": true
+      },
+      {
+        "index": 6,
+        "tag": "section",
+        "role": "content",
+        "subrole": null,
+        "confidence": 0.3,
+        "heading": "كل تجربة،\nخطوة للأمام.",
+        "bounds": {
+          "x": 56,
+          "y": 1642.90625,
+          "w": 1168,
+          "h": 1682.53125
+        },
+        "buttonCount": 14,
+        "cardCount": 5,
+        "slots": {
+          "heading": "كل تجربة،\nخطوة للأمام.",
+          "subheadings": [
+            "التهديدات والثغرات والهجمات في الأمن السيبراني",
+            "إعادة تشكيل مستقبل براءات الاختراع في ضوء الذكاء الاصطناعي",
+            "اللغة الإنجليزية المكثّفة",
+            "اللغة الإنجليزية العامة"
+          ],
+          "ctaCount": 14
+        },
+        "needsSmart": true
+      },
+      {
+        "index": 7,
+        "tag": "section",
+        "role": "content",
+        "subrole": null,
+        "confidence": 0.3,
+        "heading": "من الفهم،\nإلى التطبيق.",
+        "bounds": {
+          "x": 56,
+          "y": 3325.4375,
+          "w": 1168,
+          "h": 928.65625
+        },
+        "buttonCount": 0,
+        "cardCount": 2,
+        "slots": {
+          "heading": "من الفهم،\nإلى التطبيق.",
+          "subheadings": [
+            "Incident Response Investigation Console",
+            "CASEFRAME · Case 7712"
+          ]
+        },
+        "needsSmart": true
+      },
+      {
+        "index": 8,
+        "tag": "section",
+        "role": "content",
+        "subrole": null,
+        "confidence": 0.3,
+        "heading": "خارج قاعات\nالدراسة.",
+        "bounds": {
+          "x": 56,
+          "y": 4254.09375,
+          "w": 1168,
+          "h": 752.21875
+        },
+        "buttonCount": 0,
+        "cardCount": 2,
+        "slots": {
+          "heading": "خارج قاعات\nالدراسة.",
+          "subheadings": [
+            "نادي التقنية الرقمية",
+            "نادي الأمن السيبراني",
+            "منظمة مدار التقنية"
+          ]
+        },
+        "needsSmart": true
+      },
+      {
+        "index": 9,
+        "tag": "section",
+        "role": "content",
+        "subrole": null,
+        "confidence": 0.3,
+        "heading": "ما تعلّمته.\nوما أستكشفه.",
+        "bounds": {
+          "x": 56,
+          "y": 5006.3125,
+          "w": 1168,
+          "h": 669.78125
+        },
+        "buttonCount": 0,
+        "cardCount": 8,
+        "slots": {
+          "heading": "ما تعلّمته.\nوما أستكشفه.",
+          "subheadings": [
+            "تعلّم وتجارب موثّقة",
+            "اهتمامات قيد التطوير"
+          ],
+          "lede": "ما تعلّمته.\nوما أستكشفه.\nتعلّم وتجارب موثّقة\nالتهديدات والثغرات السيبرانية — دورة تمهيدية\nاللغة الإنجليزية — مستوى B1 في دورتي LAL\nالروبوتات — مشاركة في دورة\nالذكاء الاصطناعي وبراءات الاختراع — حضور ندوة\nاهتمامات قيد التطوير\nأساسيات الأمن السيبراني\nالأمن الرقمي والوعي بالتهديدات\nالابتكار التقني\nتطوير المهارات التقنية العملية"
+        },
+        "needsSmart": true
+      },
+      {
+        "index": 10,
+        "tag": "section",
+        "role": "hero",
+        "subrole": null,
+        "confidence": 0.4,
+        "heading": "لأثرٍ رقمي\nيبدأ بالتعلّم.",
+        "bounds": {
+          "x": 56,
+          "y": 5701.09375,
+          "w": 1168,
+          "h": 341.9375
+        },
+        "buttonCount": 1,
+        "cardCount": 0,
+        "slots": {
+          "heading": "لأثرٍ رقمي\nيبدأ بالتعلّم.",
+          "ctaCount": 1
+        },
+        "needsSmart": true
+      },
+      {
+        "index": 11,
+        "tag": "footer",
+        "role": "footer",
+        "subrole": null,
+        "confidence": 0.95,
+        "heading": null,
+        "bounds": {
+          "x": 56,
+          "y": 6063.03125,
+          "w": 1168,
+          "h": 86.046875
+        },
+        "buttonCount": 0,
+        "cardCount": 0,
+        "slots": {
+          "lede": "البراء ياسر العسيري\n© 2026"
+        },
+        "needsSmart": false
+      }
+    ],
+    "counts": {
+      "nav": 2,
+      "content": 6,
+      "hero": 2,
+      "sidebar": 1,
+      "footer": 1
+    },
+    "readingOrder": [
+      "nav",
+      "nav",
+      "content",
+      "hero",
+      "content",
+      "sidebar",
+      "content",
+      "content",
+      "content",
+      "content",
+      "hero",
+      "footer"
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+:root {
+  /* Colors — Primary */
+  --color-primary: #46d9e8;
+  --color-secondary: #07111f;
+  --color-accent: #28394c;
+
+  /* Ramp — primary (base is 300) */
+  --color-primary-50: #bbffff;
+  --color-primary-100: #a8faff;
+  --color-primary-200: #8cebf6;
+  --color-primary-300: #46d9e8;
+  --color-primary-400: #15b4c2;
+  --color-primary-500: #0096a5;
+  --color-primary-600: #007e8c;
+  --color-primary-700: #006673;
+  --color-primary-800: #005460;
+  --color-primary-900: #00454e;
+  --color-primary-950: #00272d;
+
+  /* Ramp — secondary (base is 950) */
+  --color-secondary-50: #edf6ff;
+  --color-secondary-100: #e1ebf9;
+  --color-secondary-200: #cfdaea;
+  --color-secondary-300: #b5c1d3;
+  --color-secondary-400: #93a1b4;
+  --color-secondary-500: #758396;
+  --color-secondary-600: #606d7f;
+  --color-secondary-700: #4c5867;
+  --color-secondary-800: #3d4755;
+  --color-secondary-900: #313945;
+  --color-secondary-950: #07111f;
+
+  /* Ramp — accent (base is 900) */
+  --color-accent-50: #eaf7ff;
+  --color-accent-100: #ddecfc;
+  --color-accent-200: #cbdbed;
+  --color-accent-300: #b1c2d6;
+  --color-accent-400: #8fa2b8;
+  --color-accent-500: #71849a;
+  --color-accent-600: #5c6e82;
+  --color-accent-700: #48586a;
+  --color-accent-800: #3a4858;
+  --color-accent-900: #28394c;
+  --color-accent-950: #172029;
+
+  /* Ramp — neutral (base is 400) */
+  --color-neutral-50: #edf7ff;
+  --color-neutral-100: #e1ebf6;
+  --color-neutral-200: #cfdbe7;
+  --color-neutral-300: #b5c2d0;
+  --color-neutral-400: #9eadbd;
+  --color-neutral-500: #758493;
+  --color-neutral-600: #606e7c;
+  --color-neutral-700: #4c5864;
+  --color-neutral-800: #3d4853;
+  --color-neutral-900: #313a43;
+  --color-neutral-950: #191f26;
+
+  /* Colors — Neutrals */
+  --color-neutral-50: #f5f7fa;
+  --color-neutral-100: #9eadbd;
+
+  /* Colors — Backgrounds */
+  --color-bg: #07111f;
+  --color-bg-1: #0b1729;
+
+  /* Colors — Text */
+  --color-text: #f5f7fa;
+  --color-text-1: #07111f;
+  --color-text-2: #46d9e8;
+  --color-text-3: #9eadbd;
+
+  /* Semantic pairs */
+  --surface-page-bg: #07111f;
+  --surface-page-fg: #f5f7fa; /* 17.64:1 AAA */
+  --surface-raised-bg: #0b1729;
+  --surface-raised-fg: #f5f7fa; /* 16.74:1 AAA */
+  --action-primary-bg: #46d9e8;
+  --action-primary-fg: #07111f; /* 11.14:1 AAA */
+  --action-secondary-bg: #07111f;
+  --action-secondary-fg: #f5f7fa; /* 17.64:1 AAA */
+  --action-accent-bg: #28394c;
+  --action-accent-fg: #f5f7fa; /* 10.99:1 AAA */
+
+  /* Typography — Families */
+  --font-sans: 'Camel', sans-serif;
+  --font-heading: 'Manrope Variable', sans-serif;
+
+  /* Typography — Named scale */
+  --font-size-h1: 69.12px;
+  --font-size-h2: 57.6px;
+  --font-size-title-1: 51.2px;
+  --font-size-title-2: 30.72px;
+  --font-size-h3: 26px;
+  --font-size-h4: 24px;
+  --font-size-title-3: 23px;
+  --font-size-title-4: 22px;
+  --font-size-title-5: 20px;
+  --font-size-title-6: 19px;
+  --font-size-body: 18px;
+  --font-size-body-sm: 17px;
+  --font-size-micro: 16px;
+  --font-size-sm-3: 15px;
+
+  /* Layout */
+  --container-width: 555px;
+  --section-rhythm: 90px;
+  --grid-columns: 2;
+
+  /* Spacing */
+  --spacing-4: 4px;
+  --spacing-8: 8px;
+  --spacing-45: 45px;
+  --spacing-48: 48px;
+  --spacing-54: 54px;
+  --spacing-60: 60px;
+  --spacing-65: 65px;
+  --spacing-75: 75px;
+  --spacing-90: 90px;
+  --spacing-100: 100px;
+  --spacing-110: 110px;
+  --spacing-161: 161px;
+  --spacing-284: 284px;
+  --spacing-419: 419px;
+
+  /* Border Radius */
+  --radius-full: 50px;
+
+  /* Original Site Variables */
+  /* — colors — */
+  --bg: #07111f;
+  --muted: #9eadbd;
+  --accent: #46d9e8;
+  /* — spacing — */
+  --spacing: .25rem;
+  /* — typography — */
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --default-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --default-mono-font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  /* — shadows — */
+  --tw-drop-shadow-alpha: 100%;
+  /* — other — */
+  --surface: #0b1729;
+  --raised: #142337;
+  --ink: #f5f7fa;
+  --line: #28394c;
+  --modal-open-dur: .25s;
+  --modal-close-dur: .15s;
+  --modal-scale: .96;
+  --modal-scale-close: .96;
+  --modal-ease: cubic-bezier(.22,1,.36,1);
+  /* — semantic — */
+  success: [object Object];
+  warning: [object Object];
+  error: [object Object];
+  info: [object Object];
+
+}

@@ -1,0 +1,16 @@
+node_modules/
+dist/
+dist-root/
+dist-subpath/
+.env
+.env.local
+.env.production.local
+.playwright-cli/
+test-results/
+playwright-report/
+.taste-skill/
+.impeccable/
+
+dist-subpath-prior/
+*.tsbuildinfo
+albaraa-portfolio.zip

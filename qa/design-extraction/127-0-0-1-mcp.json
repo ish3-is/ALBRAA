@@ -1,0 +1,463 @@
+{
+  "colors": {
+    "all": [
+      {
+        "hex": "#f5f7fa",
+        "rgb": {
+          "r": 245,
+          "g": 247,
+          "b": 250,
+          "a": 1
+        },
+        "hsl": {
+          "h": 216,
+          "s": 33,
+          "l": 97
+        },
+        "count": 409,
+        "areaShare": 0.004,
+        "contexts": [
+          "text",
+          "border",
+          "background"
+        ]
+      },
+      {
+        "hex": "#9eadbd",
+        "rgb": {
+          "r": 158,
+          "g": 173,
+          "b": 189,
+          "a": 1
+        },
+        "hsl": {
+          "h": 211,
+          "s": 19,
+          "l": 68
+        },
+        "count": 146,
+        "areaShare": 0,
+        "contexts": [
+          "text",
+          "border"
+        ]
+      },
+      {
+        "hex": "#07111f",
+        "rgb": {
+          "r": 7,
+          "g": 17,
+          "b": 31,
+          "a": 1
+        },
+        "hsl": {
+          "h": 215,
+          "s": 63,
+          "l": 7
+        },
+        "count": 90,
+        "areaShare": 0.994,
+        "contexts": [
+          "background",
+          "text",
+          "border"
+        ]
+      },
+      {
+        "hex": "#46d9e8",
+        "rgb": {
+          "r": 70,
+          "g": 217,
+          "b": 232,
+          "a": 1
+        },
+        "hsl": {
+          "h": 186,
+          "s": 78,
+          "l": 59
+        },
+        "count": 90,
+        "areaShare": 0.003,
+        "contexts": [
+          "background",
+          "text",
+          "border"
+        ]
+      },
+      {
+        "hex": "#28394c",
+        "rgb": {
+          "r": 40,
+          "g": 57,
+          "b": 76,
+          "a": 1
+        },
+        "hsl": {
+          "h": 212,
+          "s": 31,
+          "l": 23
+        },
+        "count": 2,
+        "areaShare": 0,
+        "contexts": [
+          "border"
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "role": "nav",
+      "tag": "header",
+      "bounds": {
+        "x": 56,
+        "y": 0,
+        "w": 1168,
+        "h": 104
+      },
+      "heading": null,
+      "buttonCount": 2,
+      "cardCount": 0,
+      "className": "site-header page-width"
+    },
+    {
+      "role": "nav",
+      "tag": "nav",
+      "bounds": {
+        "x": 482.09375,
+        "y": 40,
+        "w": 234.625,
+        "h": 24
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 0,
+      "className": null
+    },
+    {
+      "role": "content",
+      "tag": "main",
+      "bounds": {
+        "x": 0,
+        "y": 104,
+        "w": 1280,
+        "h": 5939.03125
+      },
+      "heading": "البراء ياسر\nالعسيري.",
+      "buttonCount": 16,
+      "cardCount": 17,
+      "className": null
+    },
+    {
+      "role": "hero",
+      "tag": "section",
+      "bounds": {
+        "x": 56,
+        "y": 104,
+        "w": 1168,
+        "h": 768
+      },
+      "heading": "البراء ياسر\nالعسيري.",
+      "buttonCount": 1,
+      "cardCount": 0,
+      "className": "hero page-width"
+    },
+    {
+      "role": "content",
+      "tag": "section",
+      "bounds": {
+        "x": 56,
+        "y": 872,
+        "w": 1168,
+        "h": 770.90625
+      },
+      "heading": "فضول يقودني.\nومعرفة أبنيها.",
+      "buttonCount": 0,
+      "cardCount": 0,
+      "className": "about section page-width"
+    },
+    {
+      "role": "sidebar",
+      "tag": "aside",
+      "bounds": {
+        "x": 56,
+        "y": 1154.21875,
+        "w": 470.234375,
+        "h": 398.6875
+      },
+      "heading": "مساري الأكاديمي",
+      "buttonCount": 0,
+      "cardCount": 0,
+      "className": "education"
+    },
+    {
+      "role": "content",
+      "tag": "section",
+      "bounds": {
+        "x": 56,
+        "y": 1642.90625,
+        "w": 1168,
+        "h": 1682.53125
+      },
+      "heading": "كل تجربة،\nخطوة للأمام.",
+      "buttonCount": 14,
+      "cardCount": 5,
+      "className": "section learning page-width"
+    },
+    {
+      "role": "content",
+      "tag": "section",
+      "bounds": {
+        "x": 56,
+        "y": 3325.4375,
+        "w": 1168,
+        "h": 928.65625
+      },
+      "heading": "من الفهم،\nإلى التطبيق.",
+      "buttonCount": 0,
+      "cardCount": 2,
+      "className": "section page-width practice"
+    },
+    {
+      "role": "content",
+      "tag": "section",
+      "bounds": {
+        "x": 56,
+        "y": 4254.09375,
+        "w": 1168,
+        "h": 752.21875
+      },
+      "heading": "خارج قاعات\nالدراسة.",
+      "buttonCount": 0,
+      "cardCount": 2,
+      "className": "section page-width community"
+    },
+    {
+      "role": "content",
+      "tag": "section",
+      "bounds": {
+        "x": 56,
+        "y": 5006.3125,
+        "w": 1168,
+        "h": 669.78125
+      },
+      "heading": "ما تعلّمته.\nوما أستكشفه.",
+      "buttonCount": 0,
+      "cardCount": 8,
+      "className": "section page-width interests"
+    },
+    {
+      "role": "hero",
+      "tag": "section",
+      "bounds": {
+        "x": 56,
+        "y": 5701.09375,
+        "w": 1168,
+        "h": 341.9375
+      },
+      "heading": "لأثرٍ رقمي\nيبدأ بالتعلّم.",
+      "buttonCount": 1,
+      "cardCount": 0,
+      "className": "contact section page-width"
+    },
+    {
+      "role": "footer",
+      "tag": "footer",
+      "bounds": {
+        "x": 56,
+        "y": 6063.03125,
+        "w": 1168,
+        "h": 86.046875
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 0,
+      "className": "page-width"
+    }
+  ],
+  "componentClusters": [
+    {
+      "kind": "button",
+      "structuralHash": "button>svg>span",
+      "instanceCount": 1,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(245, 247, 250)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(245, 247, 250)",
+            "fontSize": "14px",
+            "fontWeight": "200"
+          },
+          "instanceCount": 1
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "a>svg",
+      "instanceCount": 2,
+      "variants": [
+        {
+          "css": {
+            "background": "rgb(70, 217, 232)",
+            "color": "rgb(7, 17, 31)",
+            "padding": "14px 24px 14px 24px",
+            "borderRadius": "0px",
+            "border": "0px solid rgb(7, 17, 31)",
+            "fontSize": "16px",
+            "fontWeight": "200"
+          },
+          "instanceCount": 1
+        },
+        {
+          "css": {
+            "background": "rgb(11, 23, 41)",
+            "color": "rgb(245, 247, 250)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px solid rgb(245, 247, 250)",
+            "fontSize": "16px",
+            "fontWeight": "200"
+          },
+          "instanceCount": 1
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "button",
+      "instanceCount": 4,
+      "variants": [
+        {
+          "css": {
+            "background": "rgb(70, 217, 232)",
+            "color": "rgb(7, 17, 31)",
+            "padding": "12px 22px 12px 22px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(7, 17, 31)",
+            "fontSize": "15px",
+            "fontWeight": "200"
+          },
+          "instanceCount": 1
+        },
+        {
+          "css": {
+            "background": "rgb(11, 23, 41)",
+            "color": "rgb(158, 173, 189)",
+            "padding": "12px 22px 12px 22px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(158, 173, 189)",
+            "fontSize": "15px",
+            "fontWeight": "200"
+          },
+          "instanceCount": 3
+        }
+      ]
+    },
+    {
+      "kind": "card",
+      "structuralHash": "article>button>div",
+      "instanceCount": 5,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(245, 247, 250)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px solid rgb(245, 247, 250)",
+            "fontSize": "16px",
+            "fontWeight": "200"
+          },
+          "instanceCount": 5
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "button>img>span>span",
+      "instanceCount": 5,
+      "variants": [
+        {
+          "css": {
+            "background": "rgb(11, 23, 41)",
+            "color": "rgb(245, 247, 250)",
+            "padding": "24px 24px 24px 24px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(245, 247, 250)",
+            "fontSize": "16px",
+            "fontWeight": "200"
+          },
+          "instanceCount": 5
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "button>svg",
+      "instanceCount": 5,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(245, 247, 250)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(245, 247, 250)",
+            "fontSize": "16px",
+            "fontWeight": "200"
+          },
+          "instanceCount": 5
+        }
+      ]
+    }
+  ],
+  "accessibility": {
+    "remediation": []
+  },
+  "cssHealth": {
+    "sheets": [
+      {
+        "url": "http://127.0.0.1:4173/assets/index-BEaYF-6F.css",
+        "totalBytes": 32303,
+        "usedBytes": 15591,
+        "unusedBytes": 16712,
+        "unusedPercent": 52
+      }
+    ],
+    "totalBytes": 32303,
+    "usedBytes": 15591,
+    "unusedBytes": 16712,
+    "unusedPercent": 52,
+    "importantCount": 4,
+    "duplicates": 544,
+    "vendorPrefixes": {
+      "webkit": 25,
+      "moz": 3,
+      "ms": 0,
+      "o": 0
+    },
+    "keyframes": [],
+    "specificity": {
+      "max": [
+        0,
+        3,
+        2
+      ],
+      "average": [
+        0,
+        0.97,
+        0.47
+      ],
+      "count": 439
+    },
+    "issues": [
+      "4 !important rules",
+      "544 duplicate declarations",
+      "52% unused CSS"
+    ]
+  }
+}

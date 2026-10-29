@@ -1,0 +1,36 @@
+{
+  "openGraph": {
+    "type": "website",
+    "title": "البراء ياسر العسيري | طالب أمن سيبراني",
+    "description": "البراء ياسر العسيري، طالب أمن سيبراني في السنة الثانية بجامعة الملك خالد. اكتشف مساري الأكاديمي وشهاداتي ومشاركتي المجتمعية.",
+    "locale": "ar_SA",
+    "image:width": "1200",
+    "image:height": "630"
+  },
+  "twitter": {
+    "card": "summary_large_image"
+  },
+  "description": "البراء ياسر العسيري، طالب أمن سيبراني في السنة الثانية بجامعة الملك خالد. اكتشف مساري الأكاديمي وشهاداتي ومشاركتي المجتمعية.",
+  "canonical": null,
+  "themeColor": "#07111F",
+  "viewport": "width=device-width, initial-scale=1.0",
+  "favicons": [
+    {
+      "rel": "icon",
+      "href": "http://127.0.0.1:4173/brand/favicon.svg",
+      "sizes": "",
+      "type": "image/svg+xml"
+    }
+  ],
+  "manifest": null,
+  "structuredData": [],
+  "score": {
+    "hasOg": true,
+    "hasTwitter": true,
+    "hasDescription": true,
+    "hasCanonical": false,
+    "hasStructuredData": false,
+    "hasFavicon": true,
+    "hasThemeColor": true
+  }
+}
